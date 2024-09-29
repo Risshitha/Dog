@@ -1,0 +1,5 @@
+beagle
+golden retriever
+labrador retriever
+poodle
+bulldog
